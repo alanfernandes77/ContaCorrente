@@ -1,0 +1,16 @@
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.exe
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.deps.json
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.runtimeconfig.json
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.runtimeconfig.dev.json
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.dll
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\bin\Debug\net5.0\ContaCorrente.ConsoleApp.pdb
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.csproj.AssemblyReference.cache
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.AssemblyInfoInputs.cache
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.AssemblyInfo.cs
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.dll
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\refint\ContaCorrente.ConsoleApp.dll
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.pdb
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ContaCorrente.ConsoleApp.genruntimeconfig.cache
+D:\vs-2022 study\ContaCorrente.ConsoleApp\ContaCorrente.ConsoleApp\obj\Debug\net5.0\ref\ContaCorrente.ConsoleApp.dll
